@@ -5,12 +5,13 @@
 ### List of codes or Programs:
 1. ModBasesScanner
 2. Michaelis-Menten-Kinetics
+3. GromacsMD_automated
 
 
 
 
 ## 1.ModBasesScanner
-##### This code is used to know wether a file has any modified bases or not (used for RNA PDB files) as it runs through all the PDB files in a directory and generates a CSV file containing all the modified bases, their location, PDB ID, and the location of the modification within the PDB structure. 
+#### This code is used to know wether a file has any modified bases or not (used for RNA PDB files) as it runs through all the PDB files in a directory and generates a CSV file containing all the modified bases, their location, PDB ID, and the location of the modification within the PDB structure. 
 
 ***Code is written in Python***
 
@@ -43,3 +44,12 @@
 - Temperature (310 Kelvin).
 - General Gas Constant.
 
+
+## 3.GromacsMD_automated
+#### This code is used to automate the process of Molecular Dynamics on gromacs using Charmm36 forcefield. So, instead of waiting for every step to press enter and continue, you can use this script or even tweek it to be suitable for your own case.
+
+***Code is written in Linux Shell scripting***
+
+##### Requirements:
+- Gromacs Software.
+- Charmm36.ff forcefield file and add it to your local gromacs path.
