@@ -10,7 +10,7 @@
 
 
 ## 1.ModBasesScanner
-##### This code is used to know wether a file has any modified bases or not (used for RNA PDB files) as it runs through all the PDB files in a directory and generates a CSV file containing all the modified bases, their location, PDB ID, and the location of the modification within the PDB structure. <span style="color: green"> Code is written in Python </span>.
+##### This code is used to know wether a file has any modified bases or not (used for RNA PDB files) as it runs through all the PDB files in a directory and generates a CSV file containing all the modified bases, their location, PDB ID, and the location of the modification within the PDB structure. '''diff Code is written in Python '''.
 ##### Needed packages:
 - NumPy
 - Pandas
@@ -19,10 +19,4 @@
 
 ## 2.Michaelis-Menten-Kinetics
 #### This code is used to predict the enzymatic activity of a specific enzyme acting on a specific substrate. 
-```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
+
