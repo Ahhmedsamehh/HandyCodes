@@ -19,3 +19,10 @@
 
 ## 2.Michaelis-Menten-Kinetics
 #### This code is used to predict the enzymatic activity of a specific enzyme acting on a specific substrate. 
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
