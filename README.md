@@ -10,7 +10,8 @@
 
 
 ## 1.ModBasesScanner
-##### This code is used to know wether a file has any modified bases or not (used for RNA PDB files) as it runs through all the PDB files in a directory and generates a CSV file containing all the modified bases, their location, PDB ID, and the location of the modification within the PDB structure. '''diff Code is written in Python '''.
+##### This code is used to know wether a file has any modified bases or not (used for RNA PDB files) as it runs through all the PDB files in a directory and generates a CSV file containing all the modified bases, their location, PDB ID, and the location of the modification within the PDB structure. 
+Code is written in Python.
 ##### Needed packages:
 - NumPy
 - Pandas
